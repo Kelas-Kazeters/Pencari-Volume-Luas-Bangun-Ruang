@@ -3,7 +3,8 @@
 """
 Created on Sun Feb  9 21:15:52 2020
 
-@author: onno
+@author: Kelas Kazeters
+@Email: msg.kazeters@gmail.com
 """
 
 while True:
