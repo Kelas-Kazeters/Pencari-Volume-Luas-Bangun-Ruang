@@ -1,4 +1,4 @@
-# Pencari-Volume-Luas-Bangun-Ruang
+# Pencari Volume & Luas Bangun Ruang
 Ini adalah program untuk mencari Luas & Volume Bangun Ruang
 
 <br>
@@ -16,6 +16,11 @@ Ini adalah program untuk mencari Luas & Volume Bangun Ruang
 <code>sudo apt update</code>
 <br>
 <code>sudo apt install python3</code>
+<br>
+<br>
+<br>
+<h1>Menginstall Program</h1>
+<code>git clone https://github.com/Kelas-Kazeters/Pencari-Volume-Luas-Bangun-Ruang</code>
 <br>
 <br>
 <br>
