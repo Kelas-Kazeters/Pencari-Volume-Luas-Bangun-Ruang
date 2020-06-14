@@ -28,7 +28,7 @@ Ini adalah program untuk mencari Luas & Volume Bangun Ruang
 <h2>Windows</h2>
 <code>cd Pencari-Volume-Luas-Bangun-Ruang</code>
 <br>
-<code>python3 main.py</code>
+<code>python main.py</code>
 <br>
 <h2>Linux</h2>
 <code>cd Pencari-Volume-Luas-Bangun-Ruang</code>
