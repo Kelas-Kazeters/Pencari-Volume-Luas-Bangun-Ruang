@@ -39,7 +39,7 @@ while True:
             import math
             prk = math.pow(volbus,1/3.0)
             print("======================================================")
-            print("Jawaban :",prk,"(JIKA HASIL TIDAK TEPAT, HASIL BISA DIBULATKAN)")
+            print("Jawaban :",round(prk))
             print("======================================================")
             menparubus = input("Apakah Anda Ingin Mencoba Lagi [Y/n]?")
             if menparubus == 'y':
